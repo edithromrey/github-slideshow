@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+City of stars, are you shinning justo for me?
 Use the left arrow to go back!
